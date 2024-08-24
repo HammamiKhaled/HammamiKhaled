@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **HammamiKhaled/HammamiKhaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+I am Khaled Hammami, intersted in Geospatial technology : Remote Sensing, GIS (Geographic Information System), GeoAI...
+
+## 📫 How to reach me
+### [LinkedIn](https://www.linkedin.com/in/khaled-hammami/)
