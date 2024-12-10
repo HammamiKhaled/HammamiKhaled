@@ -19,3 +19,15 @@ I am Khaled Hammami, intersted in Geospatial technology : Remote Sensing, GIS (G
 
 ## 📫 How to reach me
 ### [LinkedIn](https://www.linkedin.com/in/khaled-hammami/)
+### [Portfolio](https://khaledhammami.me)
+
+<strong>📊 My Github Stats :</strong><br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HammamiKhaled&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HammamiKhaled&theme=radical&hide_border=true"/><br><br>
+
+<strong>💡 My Languages :</strong><br><br>
+<img src="https://img.shields.io/badge/-Python-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-Javascript-lightgrey?style=plastic"/><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HammamiKhaled&langs_count_private=true&theme=radical&card_width=445)<br><br>
