@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me
+
+## Khaled Hammami
+
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/khaled-hammami/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HammamiKhaled.HammamiKhaled)
+
 I am Khaled Hammami, intersted in Geospatial technology : Remote Sensing, GIS (Geographic Information System), GeoAI...
 
 ## 📫 How to reach me
